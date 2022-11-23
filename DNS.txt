@@ -1,4 +1,4 @@
-Fix:DNS_PROBE_FINSIED_BAD_CONFIG(the site can not be reached)
+Fix:DNS_PROBE_FINSIED_BAD_CONFIG,DNS_PROBE_STARTED(the site can not be reached)
 
 
 ---------------------
