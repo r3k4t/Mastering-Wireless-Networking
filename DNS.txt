@@ -1,0 +1,17 @@
+Fix:DNS_PROBE_FINSIED_BAD_CONFIG(the site can not be reached)
+
+
+---------------------
+Cloudflare  DNS
+---------------------
+Primary DNS:1.1.1.1
+Secondary DNS:1.0.0.1
+
+
+---------------------
+Google DNS
+---------------------
+Primary DNS:8.8.8.8
+Secondary DNS:8.8.4.4
+
+
