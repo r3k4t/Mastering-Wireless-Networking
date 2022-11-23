@@ -1,0 +1,2 @@
+Trigger Port :544 
+Incoming Ports:8970-8999
