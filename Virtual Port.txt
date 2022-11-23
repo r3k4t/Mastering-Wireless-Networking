@@ -1,0 +1,6 @@
+Fix:Could not get ip address,Failed to Obtain ip address,connecting,saved
+etc.(Android,Desktop)
+
+
+192.168.0.1  port 21
+192.168.0.2  port 53
